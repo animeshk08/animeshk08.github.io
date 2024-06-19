@@ -21,8 +21,8 @@ repository               : "animeshk08/animeshk08.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "animesh_linkedin.jpg"
+  name             : "Animesh Kumar"
   pronouns         : # example: "she/her"  
   bio              : "MSCS student at UC San Diego"
   location         : "San Diego"
