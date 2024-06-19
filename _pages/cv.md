@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<object data="http://animeshk08.github.io/files/resume_may_2024_sde.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://animeshk08.github.io/files/resume_may_2024_sde.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://animeshk08.github.io/files/resume_may_2024_sde.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
